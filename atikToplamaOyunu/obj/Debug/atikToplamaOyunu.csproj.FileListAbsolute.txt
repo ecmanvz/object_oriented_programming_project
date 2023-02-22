@@ -1,0 +1,30 @@
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe.config
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.pdb
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.atikToplamaOyunu.resources
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.Properties.Resources.resources
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.exe
+C:\Users\pc\Desktop\ömer faruk susuz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.pdb
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe.config
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.pdb
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.atikToplamaOyunu.resources
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.Properties.Resources.resources
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.exe
+C:\Users\pc\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.pdb
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe.config
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.pdb
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csprojAssemblyReference.cache
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.atikToplamaOyunu.resources
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.Properties.Resources.resources
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.GenerateResource.cache
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.exe
+C:\Users\Fatma Betül\Desktop\nusret yılmaz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.pdb
